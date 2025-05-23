@@ -4,6 +4,7 @@ Formée en cybersécurité offensive et défensive.
 Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
 
 ![Work in Progress](https://img.shields.io/badge/Status-En%20cours%20de%20développement-orange)
+![GitHub followers](https://img.shields.io/github/followers/virg736?label=Suiveurs&style=social)
 
 ---
 
