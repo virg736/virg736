@@ -1,4 +1,4 @@
-# Salut, moi c’est Virginie !
+# Hello
 
 Formée en cybersécurité offensive et défensive.
 Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
