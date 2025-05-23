@@ -1,16 +1,21 @@
-## Hi there 👋
+# Salut, moi c’est Virginie !
 
-<!--
-**virg736/virg736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formée en cybersécurité offensive et défensive.
+Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
 
-Here are some ideas to get you started:
+## Ce que je prépare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis en train de construire un **pentest complet**, avec scripts, étapes et méthodologie, depuis la reconnaissance jusqu'à l’exploitation.
+Tout sera publié ici en open source pour en faire profiter la communauté !
+
+## Projets en cours
+
+- [**osint-guide**](https://github.com/virg736/osint-guide)
+Guide complet des techniques OSINT passives et actives.
+
+- [**pentest-scripts**](https://github.com/virg736/pentest-scripts)
+Scripts, notes et automatisations pour tests d’intrusion.
+
+## Statistiques de profil
+
+![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
