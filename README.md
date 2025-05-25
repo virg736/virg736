@@ -17,7 +17,7 @@ Je suis en train de construire un **pentest complet**, avec scripts, étapes et 
 Tout sera publié ici en open source pour en faire profiter la communauté !
 
 **EN :**
-I'm building a **complete penetration test**, with scripts, steps, and methodology — from reconnaissance to exploitation.
+I'm building a **complete penetration test**, with scripts, steps, and methodology from reconnaissance to exploitation.
 Everything will be published here in open source to benefit the community!
 
 ---
