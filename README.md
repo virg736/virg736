@@ -1,4 +1,4 @@
-# Hello
+# Hello / Bonjour
 
 **Français :**
 Formée en cybersécurité offensive et défensive. Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
@@ -6,28 +6,55 @@ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, au
 **English:**
 Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and security awareness.
 
-![Work in Progress](https://img.shields.io/badge/Status-En%20cours%20de%20développement-orange)
-![GitHub followers](https://img.shields.io/github/followers/virg736?label=Suiveurs&style=social)
-
 ---
-## Ce que je prépare / What I'm working on
 
-**FR :**
-Je suis en train de construire un **pentest complet**, avec scripts, étapes et méthodologie, depuis la reconnaissance jusqu’à l’exploitation.
-Tout sera publié ici en open source pour en faire profiter la communauté !
+## Mes projets / My Projects
 
-**EN :**
-I'm building a **complete penetration test**, with scripts, steps, and methodology from reconnaissance to exploitation.
-Everything will be published here in open source to benefit the community!
+### [pentest-scripts](https://github.com/virg736/pentest-scripts)
+Scripts, notes et automatisations pour tests d'intrusion.
+**Technos :**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Projets en cours
+### [osint-guide](https://github.com/virg736/osint-guide)
+Guide complet des techniques OSINT passives et actives.
+**Technos :**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- [pentest-scripts](#)
-**FR :** Scripts, notes et automatisations pour tests d'intrusion.
-**EN :** Scripts, notes, and automations for intrusion testing.
-  [**pentest-scripts**](https://github.com/virg736/pentest-scripts)
+---
+
+### [enumeration-pentest](https://github.com/virg736/enumeration-pentest)
+Méthodologie et outils d'énumération réseau.
+**Technos :**
+![Nmap](https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logo=nmap&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+### [burp-kali-proxy](https://github.com/virg736/burp-kali-proxy)
+Analyse de trafic avec Burp Suite sur Kali Linux.
+**Technos :**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+### [The-Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
+Toolkit de test de proxy/mitm (Burp, MITMProxy…).
+**Technos :**
+![MITMProxy](https://img.shields.io/badge/MITMProxy-8C8C8C?style=for-the-badge&logo=mitmproxy&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## Me contacter / Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ton-lien-linkedin)
+
 
 ---
 
