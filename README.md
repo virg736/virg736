@@ -1,7 +1,7 @@
 <img src="https://github.com/virg736/virg736/blob/main/photo%20profil%20GitHub.PNG?raw=true" alt="Banner" style="width:100%;"/>
 
 # Hello everyone!
-Welcome to my profil GitHub.
+Welcome to my GitHub profile
 
 **Français :**
 Formée en cybersécurité offensive et défensive. Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
