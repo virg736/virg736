@@ -1,5 +1,5 @@
 # Hello everyone!
-Welcomr to my profil GitHub.
+Welcome to my profil GitHub.
 
 **Français :**
 Formée en cybersécurité offensive et défensive. Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
