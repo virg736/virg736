@@ -28,6 +28,8 @@ Guide complet des techniques OSINT passives et actives.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+[Voir le projet →](https://github.com/virg736/osint-guide)
+
 ---
 
 ### [enumeration-pentest](https://github.com/virg736/enumeration-pentest)
@@ -35,6 +37,9 @@ Méthodologie et outils d'énumération réseau.
 **Technos :**
 ![Nmap](https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logo=nmap&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+[Voir le projet →](https://github.com/virg736/enumeration-pentest)
+
 
 ---
 
@@ -44,6 +49,8 @@ Analyse de trafic avec Burp Suite sur Kali Linux.
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+[Voir le projet →](https://github.com/virg736/burp-kali-proxy)
+
 ---
 
 ### [The-Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
@@ -52,6 +59,7 @@ Toolkit de test de proxy/mitm (Burp, MITMProxy…).
 ![MITMProxy](https://img.shields.io/badge/MITMProxy-8C8C8C?style=for-the-badge&logo=mitmproxy&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+[Voir le projet →](https://github.com/virg736/The-Man-in-the-Middle)
 ---
 
 
