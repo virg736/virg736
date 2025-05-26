@@ -90,7 +90,7 @@ Audit de vulnérabilités réseau avec OpenVAS sous Kali Linux.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virginie-lechene-fr)
 
-
+---
 
 ## Avertissement légal
 
