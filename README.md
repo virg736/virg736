@@ -69,5 +69,7 @@ Toolkit de test de proxy/mitm (Burp, MITMProxy…).
 
 ## Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virginie-lechene-fr)
+[Mon profil LinkedIn](https://www.linkedin.com/in/virginie-lechene-fr)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virginie-lechene-fr)
 
