@@ -54,13 +54,6 @@ Toolkit de test de proxy/mitm (Burp, MITMProxy…).
 
 ---
 
-## Me contacter / Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ton-lien-linkedin)
-
-
----
-
 ## Statistiques de profil
 
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
