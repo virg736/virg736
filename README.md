@@ -54,6 +54,18 @@ Toolkit de test de proxy/mitm (Burp, MITMProxy…).
 
 ---
 
+### openvas-kali
+
+Audit de vulnérabilités réseau avec OpenVAS sous Kali Linux.
+**Technos :**
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-blue?logo=linux&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OPENVAS-009639?logo=greenbone&logoColor=white)
+
+[Voir le projet →](https://github.com/virg736/Openvas)
+
+---
+
+
 ## Statistiques de profil
 
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
