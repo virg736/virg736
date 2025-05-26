@@ -94,8 +94,8 @@ Audit de vulnérabilités réseau avec OpenVAS sous Kali Linux.
 
 ## Avertissement légal
 
-Tous projets à but éducatif uniquement. Aucune utilisation non autorisée. © Virginie Lechene
+Tous les projets à but éducatif uniquement.Toute utilisation non autorisée est interdite et relève de la seule responsabilité de l'utilisateur. © Virginie Lechene
 
-Educational use only. Unauthorized use prohibited. © Virginie Lechene
+All projets presented here are for educational purposes only. Unauthorized use is strictly prohibited and is the sole responsibility of the user. © Virginie Lechene
 
 
