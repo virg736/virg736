@@ -38,7 +38,7 @@ Méthodologie et outils d'énumération réseau.
 ![Nmap](https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logo=nmap&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-[Voir le projet →](https://github.com/virg736/enumeration-pentest)
+
 
 
 ---
