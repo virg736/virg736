@@ -49,7 +49,8 @@ Analyse de trafic avec Burp Suite sur Kali Linux.
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-[Voir le projet →](https://github.com/virg736/burp-kali-proxy)
+[Voir le projet →](https://github.com/virg736/The-Man-in-the-Middle)
+
 
 ---
 
