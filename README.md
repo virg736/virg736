@@ -28,7 +28,6 @@ Guide complet des techniques OSINT passives et actives.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[Voir le projet →](https://github.com/virg736/osint-guide)
 
 ---
 
