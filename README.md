@@ -107,12 +107,6 @@ Voir le fichier [Licence-visuels.md](./Licence-visuels.md) pour les détails.
 
 [![Licence: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-## Clause de non-responsabilité
 
-Ce projet est fourni **à des fins strictement éducatives**.
-Toute utilisation de ce code ou de ces techniques dans un cadre illégal, non autorisé, ou à l’encontre des lois en vigueur est **strictement interdite**.
-**L’autrice décline toute responsabilité** en cas d’usage abusif, malveillant ou contraire à l’éthique du contenu ou des outils présentés.
-
-Le projet est distribué **"en l’état", sans aucune garantie**, conformément aux termes de la **licence MIT**.
 
 
