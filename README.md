@@ -37,6 +37,8 @@ Méthodologie et outils d'énumération réseau.
 ![Nmap](https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logo=nmap&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
+[Voir le projet →](https://github.com/virg736/enumeration-pentest)
+
 
 ---
 
@@ -76,15 +78,10 @@ Audit de vulnérabilités réseau avec OpenVAS sous Kali Linux.
 
 Simulation d’une attaque par force brute avec CUPP.py
 **Technos :** ![Tool](https://img.shields.io/badge/Tool-CUPP-blue) ![Langage](https://img.shields.io/badge/Language-Python-yellow) ![Type](https://img.shields.io/badge/Type-BruteForce-red)
+
 [Voir le projet →](https://github.com/virg736/brute-force-exercice)
 
-
-
-
-
-
 ---
-
 
 ## Statistiques de profil
 
