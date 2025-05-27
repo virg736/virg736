@@ -112,10 +112,11 @@ All projets presented here are for educational purposes only. Unauthorized use i
 
 Ce projet est sous licence ### Licence des visuels
 
-Les visuels de ce dépôt sont protégés par la licence [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
-Voir le fichier [Licence-visuels.md](./Licence-visuels.md) pour les détails.
-
 [![Licence: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Les visuels de ce dépôt sont protégés par la licence [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) – Attribution, pas de modifications autorisées.
+
+
 
 
 
