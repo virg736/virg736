@@ -108,13 +108,10 @@ Tous les projets présentés ici à but éducatif uniquement.Toute utilisation n
 
 All projets presented here are for educational purposes only. Unauthorized use is strictly prohibited and is the sole responsibility of the user. © Virginie Lechene
 
-## Licence
-
-Ce projet est sous licence ### Licence des visuels
-
-[![Licence: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
+## Licence des visuels
 
 Les visuels de ce dépôt sont protégés par la licence [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) – Attribution, pas de modifications autorisées.
+[![Licence: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 
