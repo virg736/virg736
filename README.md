@@ -100,8 +100,7 @@ All projets presented here are for educational purposes only. Unauthorized use i
 
 ## Licence
 
-Ce projet est sous licence MIT – voir le fichier [LICENSE](LICENSE) pour plus de détails.
-### Licence des visuels
+Ce projet est sous licence ### Licence des visuels
 
 Les visuels de ce dépôt sont protégés par la licence [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
 Voir le fichier [Licence-visuels.md](./Licence-visuels.md) pour les détails.
