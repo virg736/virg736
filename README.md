@@ -108,7 +108,6 @@ Tous les projets présentés ici à but éducatif uniquement.Toute utilisation n
 
 All projets presented here are for educational purposes only. Unauthorized use is strictly prohibited and is the sole responsibility of the user. © Virginie Lechene
 
-## Licence des visuels
 
 ## Licence des visuels
 
