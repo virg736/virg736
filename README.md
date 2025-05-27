@@ -74,6 +74,16 @@ Audit de vulnérabilités réseau avec OpenVAS sous Kali Linux.
 [Voir le projet →](https://github.com/virg736/Openvas)
 
 ---
+### brute-force-exercise
+Simulation d’une attaque par force brute avec CUpp.py
+**Technos :**
+<img src="https://img.shields.io/badge/Tool-CUPP-blue.svg" alt="CUPP">
+<img src="https://img.shields.io/badge/Language-Python-yellow.svg" alt="Python">
+<img src="https://img.shields.io/badge/Type-BruteForce-red.svg" alt="BruteForce">
+
+[Voir le projet →](https://github.com/virg736/brute-force-exercise)
+
+---
 
 
 ## Statistiques de profil
