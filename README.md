@@ -111,6 +111,27 @@ All projets presented here are for educational purposes only. Unauthorized use i
 Les visuels de ce dépôt sont protégés par la licence [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) – Attribution, pas de modifications autorisées.
 [![Licence: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
 
+----
+
+## 📜 Informations sur les licences / License Information
+
+🇫🇷 **Français** :
+-  Le **code source** de mes dépôts est sous licence [MIT](https://opensource.org/licenses/MIT).
+-  Les **contenus pédagogiques, guides et documents** sont sous licence [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+- ⚠️ Chaque type de contenu est soumis à une licence différente. Merci de consulter chaque dépôt pour plus de détails.
+
+ Usage non commercial uniquement pour les supports pédagogiques. Pour toute demande spécifique ou collaboration, n'hésitez pas à me contacter par mail.
+
+---
+
+🇬🇧 **English**:
+-  The **source code** in my repositories is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+-  The **documentation, guides, and educational content** are licensed under the [Creative Commons BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+- ⚠️ These licenses apply respectively to each type of content. Please refer to each repository for specific details.
+
+ Non-commercial use only for educational resources. For specific requests or collaboration, feel free to contact me by email.
+
+
 
 
 
