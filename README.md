@@ -11,8 +11,11 @@ Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDP
 
 ---
 
-[![MON PORTFOLIO CYBERSÉCURITÉ – CLIQUEZ ICI](https://img.shields.io/badge/MON%20PORTFOLIO%20CYBERS%C3%89CURIT%C3%89-CLIQUEZ%20ICI-blue)](https://virg736.github.io/)
+Pentesting · Offensive security · GDPR awareness · Vulnerability analysis
 
+[![Mon Portfolio Cybersécurité](https://img.shields.io/badge/MON%20PORTFOLIO%20CYBERS%C3%89CURIT%C3%89-CLIQUEZ%20ICI-blue)](https://virg736.github.io)
+
+---
 
 ## Mes projets / My Projects
 
