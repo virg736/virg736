@@ -11,10 +11,7 @@ Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDP
 
 ---
 
-[![Visit My Portfolio](https://img.shields.io/badge/Mon_Portfolio_Cybersécurité-🔗_Cliquez_ici-blue?style=for-the-badge)](https://virg736.github.io/virg736.github.io-en/)
-
-
----
+[![Mon Portfolio Cybersécurité](https://img.shields.io/badge/MON%20PORTFOLIO%20CYBERS%C3%89CURIT%C3%89-CLIQUEZ%20ICI-blue)](https://virg736.github.io/)
 
 
 
