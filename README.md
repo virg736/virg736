@@ -23,9 +23,8 @@ Pentesting · Offensive security · GDPR awareness · Vulnerability analysis
 
 ### [pentest-scripts](https://github.com/virg736/pentest-scripts)
 Scripts, notes et automatisations pour tests d'intrusion.
-- [`Script-proxy-linux.sh`](./tools/Script-proxy-linux.sh) : Automatisation de configuration MITM pour Linux (Kali)
-- [`Script-proxy.windows`](./tools/Script-proxy.windows) : Configuration proxy MITM sous Windows (ex: avec Fiddler ou Burp)
-
+- [`Script-proxy-linux.sh`](https://github.com/virg736/The-Man-in-the-Middle/blob/main/tools/Script-proxy-linux.sh) : Automatisation de configuration MITM pour Linux (Kali)
+- [`Script-proxy.windows`](https://github.com/virg736/The-Man-in-the-Middle/blob/main/tools/Script-proxy.windows) : Configuration proxy MITM sous Windows (ex : avec Fiddler ou Burp)
 
 **Technos :**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
