@@ -106,6 +106,13 @@ Simulation d’une attaque par force brute avec CUPP.py
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
 ---
+## 🤝 Collaborations
+
+**Français** : Intéressée par des opportunités de collaboration dans le domaine de la cybersécurité ou des projets open source. Vous pouvez me contacter pour toute proposition sérieuse.
+**English** : Open to collaboration opportunities in cybersecurity or open-source projects. Feel free to reach out for any serious proposals.
+
+---
+
 ##  Me contacter
 
 📧 Email : [virginielechene@proton.me](mailto:virginielechene@proton.me)
@@ -138,7 +145,7 @@ Les visuels de ce dépôt sont protégés par la licence [CC BY-ND 4.0](https://
 
 ## 📜 Informations sur les licences / License Information
 
-🇫🇷 **Français** :
+ **Français** :
 -  Le **code source** de mes dépôts est sous licence [MIT](https://opensource.org/licenses/MIT).
 -  Les **contenus pédagogiques, guides et documents** sont sous licence [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 - ⚠️ Chaque type de contenu est soumis à une licence différente. Merci de consulter chaque dépôt pour plus de détails.
@@ -147,7 +154,7 @@ Les visuels de ce dépôt sont protégés par la licence [CC BY-ND 4.0](https://
 
 ---
 
-🇬🇧 **English**:
+ **English**:
 -  The **source code** in my repositories is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 -  The **documentation, guides, and educational content** are licensed under the [Creative Commons BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 - ⚠️ These licenses apply respectively to each type of content. Please refer to each repository for specific details.
