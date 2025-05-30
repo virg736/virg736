@@ -99,7 +99,6 @@ Simulation d’une attaque par force brute avec CUPP.py
 
 ## Statistiques de profil
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=virg736&show_icons=true&theme=default&hide_title=true)
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
 ---
