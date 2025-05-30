@@ -89,6 +89,9 @@ Simulation d’une attaque par force brute avec **CUPP.py**.
 ![Tool](https://img.shields.io/badge/Tool-cupp-blue?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge)
 
+📁 [Voir le projet →](https://github.com/virg736/brute-force-exercice)
+
+
 
 
 
