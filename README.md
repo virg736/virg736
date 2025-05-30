@@ -11,6 +11,9 @@ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, au
 **English:**
 Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and security awareness.
 
+Tous les projets sont documentés en **français** et **anglais**
+All projects are documented in **French** and **English**.
+
 ---
 
 Pentesting · Offensive security · GDPR awareness · Vulnerability analysis
@@ -100,8 +103,8 @@ Simulation d’une attaque par force brute avec CUPP.py
 
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
-- 🇫🇷 Ce profil a été créé le **22 mai 2025** — merci pour votre visite !
-- 🇬🇧 This profile was created on **May 22, 2025** — thank you for visiting!
+-  Ce profil a été créé le **22 mai 2025** — merci pour votre visite !
+-  This profile was created on **May 22, 2025** — thank you for visiting!
 
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
