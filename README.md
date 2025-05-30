@@ -96,13 +96,12 @@ Simulation d’une attaque par force brute avec CUPP.py
 [Voir le projet →](https://github.com/virg736/brute-force-exercice)
 
 ---
-
 ## 📊 Statistiques de profil / Profile Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
-- Ce profil a été crée le 22 mai 2025** — merci pour votre visite !
-- This profile was created on May 22, 2025** — thank you for visiting!
+- 🇫🇷 Ce profil a été créé le **22 mai 2025** — merci pour votre visite !
+- 🇬🇧 This profile was created on **May 22, 2025** — thank you for visiting!
 
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
