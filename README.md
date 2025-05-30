@@ -20,8 +20,6 @@ Scripts, notes et automatisations pour tests d'intrusion :
 - [`Script-proxy-linux.sh`](https://github.com/virg736/The-Man-in-the-Middle/blob/main/tools/Script-proxy-linux.sh) : Automatisation de configuration MITM pour Linux (Kali)
 - [`Script-proxy.windows`](https://github.com/virg736/The-Man-in-the-Middle/blob/main/tools/Script-proxy.windows) : Configuration proxy MITM sous Windows (ex : avec Fiddler ou Burp)
 🔗 [`scripts-enumeration-reseau.sh`](https://github.com/virg736/enumeration-pentest/blob/main/scripts-enumeration-reseau.sh) – Script Bash pour scanner et énumérer les services réseau avec Nmap
-Technos : ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-00599C?logo=nmap&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Script](https://img.shields.io/badge/Type-Script-blueviolet?style=flat-square)
-
 
 **Technos utilisées :**
 [![](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)]()
