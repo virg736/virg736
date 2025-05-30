@@ -28,6 +28,38 @@ Scripts, notes et automatisations pour tests d'intrusion :
 [![](https://img.shields.io/badge/Type-Script-blueviolet?style=flat-square)]()
 
 ---
+### 🔍 [osint-guide](https://github.com/virg736/osint-guide)
+Guide complet des techniques OSINT passives et actives.
+
+**Technos utilisées** :
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🌐 [enumeration-pentest](https://github.com/virg736/enumeration-pentest)
+Méthodologie et outils d’énumération réseau.
+
+**Technos utilisées** :
+![Nmap](https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logo=nmap&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+📁 [Voir le projet →](https://github.com/virg736/enumeration-pentest)
+
+---
+
+### 🧪 [burp-kali-proxy](https://github.com/virg736/burp-kali-proxy)
+Analyse de trafic avec Burp Suite sur Kali Linux.
+
+**Technos utilisées** :
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+📁 [Voir le projet →](https://github.com/virg736/burp-kali-proxy)
+
+
+
+
 
 ### [osint-guide](https://github.com/virg736/osint-guide)
 Guide complet des techniques OSINT passives et actives.
