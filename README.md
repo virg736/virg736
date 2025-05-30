@@ -103,22 +103,23 @@ Simulation d’une attaque par force brute avec CUPP.py
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
 ---
+##  Me contacter
 
-## Me contacter
-✉️ Email : virginielechene@proton.me
-[Mon profil LinkedIn](https://www.linkedin.com/in/virginie-lechene-fr)
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virginie-lechene-fr)
+📧 Email : virginielechene@proton.me
+🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/virginie-lechene-fr)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin&logoColor=white)
 
 ---
 
-## Avertissement légal
+## ⚖️ Avertissement légal
 
-Tous les projets présentés ici à but éducatif uniquement.Toute utilisation non autorisée est interdite et relève de la seule responsabilité de l'utilisateur. © Virginie Lechene
+Tous les projets présentés ici à but éducatif uniquement.
+Toute utilisation non autorisée est interdite et relève de la responsabilité de l’utilisateur.
+© Virginie Lechene
 
-All projets presented here are for educational purposes only. Unauthorized use is strictly prohibited and is the sole responsibility of the user. © Virginie Lechene
+All projects presented here are for educational purposes only.
+Unauthorized use is strictly prohibited and is the sole responsibility of the user.
+© Virginie Lechene
 
 
 ## Licence des visuels
