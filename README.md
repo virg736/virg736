@@ -14,7 +14,7 @@
 ---
 ## 📁 Mes projets / My Projects
 
-### 🔧 Pentest Scripts
+###  Pentest Scripts
 
 Scripts, notes et automatisations pour tests d'intrusion :
 - [`Script-proxy-linux.sh`](https://github.com/virg736/The-Man-in-the-Middle/blob/main/tools/Script-proxy-linux.sh) : Automatisation de configuration MITM pour Linux (Kali)
@@ -35,9 +35,6 @@ Guide complet des techniques OSINT passives et actives.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
----
-
 ### [enumeration-pentest](https://github.com/virg736/enumeration-pentest)
 Méthodologie et outils d'énumération réseau.
 **Technos :**
@@ -45,9 +42,6 @@ Méthodologie et outils d'énumération réseau.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 [Voir le projet →](https://github.com/virg736/enumeration-pentest)
-
-
----
 
 ### [burp-kali-proxy](https://github.com/virg736/burp-kali-proxy)
 Analyse de trafic avec Burp Suite sur Kali Linux.
@@ -57,9 +51,6 @@ Analyse de trafic avec Burp Suite sur Kali Linux.
 
 [Voir le projet →](https://github.com/virg736/burp-kali-proxy)
 
-
----
-
 ### [The-Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
 Toolkit de test de proxy/mitm (Burp, MITMProxy…).
 **Technos :**
@@ -67,9 +58,6 @@ Toolkit de test de proxy/mitm (Burp, MITMProxy…).
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 [Voir le projet →](https://github.com/virg736/The-Man-in-the-Middle)
-
----
-
 
 ### [openvas-kali](https://github.com/virg736/Openvas)
 
@@ -80,7 +68,6 @@ Audit de vulnérabilités réseau avec OpenVAS sous Kali Linux.
 
 [Voir le projet →](https://github.com/virg736/Openvas)
 
----
 ### brute-force-exercise
 
 Simulation d’une attaque par force brute avec CUPP.py
