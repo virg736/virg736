@@ -3,6 +3,8 @@
 # Hello everyone!
 Welcome to my GitHub profile 
 
+![GitHub Pro Member](https://img.shields.io/badge/GitHub%20Pro-Active-blue?logo=github&style=for-the-badge)
+
 **Français :**
 Formée en cybersécurité offensive et défensive. Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
 
