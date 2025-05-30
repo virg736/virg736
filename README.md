@@ -3,7 +3,6 @@
 # Hello everyone!
 Welcome to my GitHub profile 
 
-![GitHub Pro Member](https://img.shields.io/badge/GitHub%20Pro-Active-blue?logo=github&style=for-the-badge)
 [![GitHub Pro](https://img.shields.io/badge/github%20pro-ACTIVE-blueviolet?logo=github&logoColor=white)](https://github.com/virg736)
 
 **Français :**
