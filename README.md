@@ -28,6 +28,7 @@ Scripts, notes et automatisations pour tests d'intrusion :
 [![](https://img.shields.io/badge/Type-Script-blueviolet?style=flat-square)]()
 
 ---
+
 ### 🔍 [osint-guide](https://github.com/virg736/osint-guide)
 Guide complet des techniques OSINT passives et actives.
 
@@ -48,7 +49,7 @@ Méthodologie et outils d’énumération réseau.
 
 ---
 
-### 🧪 [burp-kali-proxy](https://github.com/virg736/burp-kali-proxy)
+###  [burp-kali-proxy](https://github.com/virg736/burp-kali-proxy)
 Analyse de trafic avec Burp Suite sur Kali Linux.
 
 **Technos utilisées** :
@@ -57,31 +58,44 @@ Analyse de trafic avec Burp Suite sur Kali Linux.
 
 📁 [Voir le projet →](https://github.com/virg736/burp-kali-proxy)
 
+---
+
+###  [The-Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
+Toolkit de test de proxy/mitm (Burp, MITMProxy...).
+
+**Technos utilisées** :
+![MITMProxy](https://img.shields.io/badge/MITMProxy-8C8C87?style=for-the-badge&logo=mitmproxy&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+📁 [Voir le projet →](https://github.com/virg736/The-Man-in-the-Middle)
+
+---
+
+### 🛡️ [openvas-kali](https://github.com/virg736/Openvas)
+Audit de vulnérabilités réseau avec OpenVAS sous Kali Linux.
+
+**Technos utilisées** :
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OPENVAS-069637?style=for-the-badge&logo=greenbone&logoColor=white)
+
+📁 [Voir le projet →](https://github.com/virg736/Openvas)
+
+---
+
+### 🔓 [brute-force-exercise](https://github.com/virg736/brute-force-exercise)
+Simulation d’une attaque par force brute avec **CUPP.py**.
+
+**Technos utilisées** :
+![Tool](https://img.shields.io/badge/Tool-cupp-blue?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge)
 
 
 
 
-### [osint-guide](https://github.com/virg736/osint-guide)
-Guide complet des techniques OSINT passives et actives.
-**Technos :**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### [enumeration-pentest](https://github.com/virg736/enumeration-pentest)
-Méthodologie et outils d'énumération réseau.
-**Technos :**
-![Nmap](https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logo=nmap&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-[Voir le projet →](https://github.com/virg736/enumeration-pentest)
 
-### [burp-kali-proxy](https://github.com/virg736/burp-kali-proxy)
-Analyse de trafic avec Burp Suite sur Kali Linux.
-**Technos :**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-[Voir le projet →](https://github.com/virg736/burp-kali-proxy)
 
 ### [The-Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
 Toolkit de test de proxy/mitm (Burp, MITMProxy…).
