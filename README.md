@@ -7,11 +7,11 @@ Welcome to my GitHub profile
 
 **Français :**
 Formée en cybersécurité offensive et défensive. Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
+Tous les projets sont documentés en **français** et **anglais**
 
 **English:**
 Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and security awareness.
-
-Tous les projets sont documentés en **français** et **anglais**- All projects are documented in **French** and **English**.
+ All projects are documented in **French** and **English**.
 
 ---
 
