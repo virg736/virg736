@@ -115,6 +115,7 @@ Simulation d’une attaque par force brute avec CUPP.py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-url)
 [![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-ACTIVE-blueviolet?logo=github&logoColor=white)](https://github.com/virg736)
 [![Twitter Blue](https://img.shields.io/badge/Twitter-Blue%20Verified-1DA1F2?logo=twitter&logoColor=white)](https://x.com/VLPentest)
+🔗 Cliquez sur les badges pour découvrir mes profils professionnels.
 
 ---
 
