@@ -11,8 +11,7 @@ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, au
 **English:**
 Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and security awareness.
 
-Tous les projets sont documentés en **français** et **anglais**
-All projects are documented in **French** and **English**.
+Tous les projets sont documentés en **français** et **anglais**- All projects are documented in **French** and **English**.
 
 ---
 
