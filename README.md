@@ -1,21 +1,15 @@
 <img src="https://github.com/virg736/virg736/blob/main/photo%20profil%20GitHub.PNG?raw=true" alt="Banner" style="width:100%;"/>
 
-# Hello everyone!
-Welcome to my GitHub profile 
-
-[![GitHub Pro](https://img.shields.io/badge/github%20pro-ACTIVE-blueviolet?logo=github&logoColor=white)](https://github.com/virg736)
-
-**Français :**
-Formée en cybersécurité offensive et défensive. Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
-Tous les projets sont documentés en **français** et **anglais**
-
-**English:**
-Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and security awareness.
- All projects are documented in **French** and **English**.
+# Hello, I'm Virginie Lechene
+🔐 Pentester | Offensive & Defensive Cybersecurity | GitHub Pro Member
 
 ---
 
-**🌐 Website** : [Cybersecurity portfolio](https://virg736.github.io)
+**Français** : Formée en cybersécurité offensive et défensive. Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
+**English** : Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and awareness.
+
+🌐 [Voir mon portfolio cybersécurité →](https://virg736.github.io/)
+📧 virginielechene@proton.me
 
 ---
 
