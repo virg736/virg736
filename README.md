@@ -2,6 +2,7 @@
 
 # Hello, I'm Virginie Lechene
 🔐 Pentester | Offensive & Defensive Cybersecurity | GitHub Pro Member
+[![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-ACTIVE-blueviolet?logo=github&logoColor=white)](https://github.com/virg736)
 
 ---
 
