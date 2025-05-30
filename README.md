@@ -59,7 +59,6 @@ Analyse de trafic avec Burp Suite sur Kali Linux.
 📁 [Voir le projet →](https://github.com/virg736/burp-kali-proxy)
 
 ---
-
 ###  [The-Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
 Toolkit de test de proxy/mitm (Burp, MITMProxy...).
 
@@ -91,48 +90,14 @@ Simulation d’une attaque par force brute avec **CUPP.py**.
 
 📁 [Voir le projet →](https://github.com/virg736/brute-force-exercice)
 
-
-
-
-
-
-
-
-
-
-### [The-Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
-Toolkit de test de proxy/mitm (Burp, MITMProxy…).
-**Technos :**
-![MITMProxy](https://img.shields.io/badge/MITMProxy-8C8C8C?style=for-the-badge&logo=mitmproxy&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-[Voir le projet →](https://github.com/virg736/The-Man-in-the-Middle)
-
-### [openvas-kali](https://github.com/virg736/Openvas)
-
-Audit de vulnérabilités réseau avec OpenVAS sous Kali Linux.
-**Technos :**
-![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-blue?logo=linux&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OPENVAS-009639?logo=greenbone&logoColor=white)
-
-[Voir le projet →](https://github.com/virg736/Openvas)
-
-### brute-force-exercise
-
-Simulation d’une attaque par force brute avec CUPP.py
-**Technos :** ![Tool](https://img.shields.io/badge/Tool-CUPP-blue) ![Langage](https://img.shields.io/badge/Language-Python-yellow) ![Type](https://img.shields.io/badge/Type-BruteForce-red)
-
-[Voir le projet →](https://github.com/virg736/brute-force-exercice)
-
 ---
+
 ## 📊 Statistiques de profil / Profile Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
 -  Ce profil a été créé le **22 mai 2025** — merci pour votre visite !
 -  This profile was created on **May 22, 2025** — thank you for visiting!
-
-![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 
 ---
 ## 🤝 Collaborations
