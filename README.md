@@ -105,7 +105,7 @@ Simulation d’une attaque par force brute avec CUPP.py
 ---
 
 ## Me contacter
-
+✉️ Email : virginielechene@proton.me
 [Mon profil LinkedIn](https://www.linkedin.com/in/virginie-lechene-fr)
 
 
