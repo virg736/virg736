@@ -11,8 +11,7 @@
 
 📁 [👉 Voir mon portfolio cybersécurité ←](https://virg736.github.io/)
 
-✉️ *(copier-coller cette adresse pour m’écrire)* 
-contact : virginielechene@proton.me 
+✉️ Me contacter : `virginielechene@proton.me` *(copier-coller cette adresse pour m’écrire)*
 
 ---
 
