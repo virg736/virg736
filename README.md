@@ -10,9 +10,10 @@
 **English** : Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and awareness.
 
 [👉 Voir mon portfolio cybersécurité ←](https://virg736.github.io/)
-✉️ virginielechene [at] proton [dot] me
+✉️ Me contacter : [virginielechene [at] proton [dot] me](mailto:virginielechene@proton.me)
 
 ---
+
 ## 📁 Mes projets / My Projects
 
 ###  Pentest Scripts
