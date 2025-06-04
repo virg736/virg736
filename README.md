@@ -41,7 +41,7 @@ Navigateur sécurisé via Firejail + VPN, pensé pour les pentests, l’analyse 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-security-informational)
 ![Bash](https://img.shields.io/badge/Bash-shell-yellowgreen)
 
-[Voir le projet](https://github.com/virg736/safefox-vpn-firejail)
+📁 [Voir le projet](https://github.com/virg736/safefox-vpn-firejail)
 
 ---
 
