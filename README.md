@@ -34,14 +34,14 @@ Scripts, notes et automatisations pour tests d'intrusion :
 
 ## safefox-vpn-firejail
 Navigateur sécurisé via Firejail + VPN, pensé pour les pentests, l’analyse web et la cybersécurité.
-[Voir le projet](https://github.com/virg736/safefox-vpn-firejail)
-
 **Technos utilisées :**
 ![VPN](https://img.shields.io/badge/VPN-secure-blue)
 ![Firejail](https://img.shields.io/badge/Firejail-sandbox-orange)
 ![Firefox](https://img.shields.io/badge/Firefox-browser-red)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-security-informational)
 ![Bash](https://img.shields.io/badge/Bash-shell-yellowgreen)
+
+[Voir le projet](https://github.com/virg736/safefox-vpn-firejail)
 
 ---
 
