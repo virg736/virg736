@@ -7,8 +7,7 @@
 ---
 
 **Français** : Formée en cybersécurité offensive et défensive. Spécialisée en pentest, audits RGPD et sensibilisation à la sécurité.
----
-**English** : Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and awareness.
+             **English** : Trained in offensive and defensive cybersecurity. Specialized in pentesting, GDPR audits, and awareness. 
 
 📁 [👉 Voir mon portfolio cybersécurité ←](https://virg736.github.io/)
 
