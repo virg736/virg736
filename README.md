@@ -32,12 +32,12 @@ Scripts, notes et automatisations pour tests d'intrusion :
 
 ---
 
-### 🔍 [osint-guide](https://github.com/virg736/osint-guide)
-Guide complet des techniques OSINT passives et actives.
+## safefox-vpn-firejail
+Navigateur sécurisé via Firejail + VPN, pensé pour les pentests, l’analyse web et la cybersécurité.
+[Voir le projet](https://github.com/virg736/safefox-vpn-firejail)
 
-**Technos utilisées** :
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Technos utilisées :** `🔒 VPN` `🔥 Firejail` `🦊 Firefox` `Kali Linux` `Bash`
+
 
 ---
 
