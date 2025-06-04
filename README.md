@@ -33,7 +33,7 @@ Scripts, notes et automatisations pour tests d'intrusion :
 ---
 
 ## safefox-vpn-firejail
-Navigateur sécurisé via Firejail + VPN, pensé pour les pentests, l’analyse web et la cybersécurité.
+Navigateur sécurisé basé Firejail et un VPN, conçu pour les tests d'intrusion, l’analyse web et la cybersécurité.
 **Technos utilisées :**
 ![VPN](https://img.shields.io/badge/VPN-secure-blue)
 ![Firejail](https://img.shields.io/badge/Firejail-sandbox-orange)
