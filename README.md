@@ -19,18 +19,22 @@
 
 ###  Pentest Scripts
 
-Scripts, notes et automatisations pour tests d'intrusion :
+
 ## 🛡 Mes badges GitHub Actions
 
 [![ShellCheck - osint-guide](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/osint-guide/actions)
 [![ShellCheck - safefox-vpn-firejail](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/safefox-vpn-firejail/actions)
 [![ShellCheck - brute-force-exercise](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercise/actions)
 
+---
 
+Scripts, notes et automatisations pour tests d'intrusion :
 
 - [`Script-proxy-linux.sh`](https://github.com/virg736/The-Man-in-the-Middle/blob/main/tools/Script-proxy-linux.sh) : Automatisation de configuration MITM pour Linux (Kali)
 - [`Script-proxy.windows`](https://github.com/virg736/The-Man-in-the-Middle/blob/main/tools/Script-proxy.windows) : Configuration proxy MITM sous Windows (ex : avec Fiddler ou Burp)
 🔗 [`scripts-enumeration-reseau.sh`](https://github.com/virg736/enumeration-pentest/blob/main/scripts-enumeration-reseau.sh) – Script Bash pour scanner et énumérer les services réseau avec Nmap
+
+----
 
 **Technos utilisées :**
 [![](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)]()
