@@ -27,6 +27,8 @@
 [![ShellCheck - brute-force-exercise](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml)
 
 
+
+
 ----
 
 **Technos utilisées :**
