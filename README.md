@@ -20,9 +20,6 @@
 
 ## 🛡 Mes badges GitHub Actions
 
-![ShellCheck](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml/badge.svg) 
-![Licence](https://img.shields.io/github/license/virg736/osint-guide?style=flat-square) 
-![Dernière mise à jour](https://img.shields.io/badge/dernière%20mise%20à%20jour-2025--05--22-blue?style=flat-square)
 
 
 ----
