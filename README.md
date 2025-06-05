@@ -20,6 +20,7 @@
 
 ## 🛡 Mes badges GitHub Actions
 
+[![ShellCheck](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml)
 [![ShellCheck](https://github.com/virg736/osint-guide-/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/osint-guide-/actions/workflows/shellcheck.yml)
 [![Licence: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Dernière mise à jour](https://img.shields.io/badge/dernière%20mise%20à%20jour-2025--05--22-blue)](README.md)
