@@ -19,10 +19,8 @@
 
 ### 🔧 ShellCheck - osint-guide
 [![ShellCheck](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml)
-
 ### 🔧 ShellCheck - brute-force-exercise
 [![ShellCheck](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml)
-
 ### 🔧 ShellCheck - safefox-vpn-firejail
 [![ShellCheck](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml)
 
