@@ -15,29 +15,20 @@
 
 ---
 
-## 📁 Mes projets / My Projects
+## 🛡️ Mes badges GitHub Actions
 
+### 🔧 ShellCheck - osint-guide
+[![ShellCheck](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml)
 
-## 🛡 Mes badges GitHub Actions
+### 🔧 ShellCheck - brute-force-exercise
+[![ShellCheck](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml)
 
-[![ShellCheck - safefox-vpn-firejail](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml)
-
-[![ShellCheck - osint-guide](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml)
-
-[![ShellCheck - brute-force-exercise](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml)
-
-
-
-
-----
-
-**Technos utilisées :**
-[![](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)]()
-[![](https://img.shields.io/badge/Nmap-0098C9?logo=nmap&logoColor=white)]()
-[![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
-[![](https://img.shields.io/badge/Type-Script-blueviolet?style=flat-square)]()
+### 🔧 ShellCheck - safefox-vpn-firejail
+[![ShellCheck](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml)
 
 ---
+
+## 📁 Mes projets / My Projects
 
 ## safefox-vpn-firejail
 Navigateur sécurisé basé Firejail et un VPN, conçu pour les tests d'intrusion, l’analyse web et la cybersécurité.
