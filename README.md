@@ -20,7 +20,12 @@
 
 ## 🛡 Mes badges GitHub Actions
 
-[![ShellCheck](https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml)
+[![ShellCheck - safefox-vpn-firejail](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml)
+
+[![ShellCheck - osint-guide](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/osint-guide/actions/workflows/shellcheck.yml)
+
+[![ShellCheck - brute-force-exercise](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercise/actions/workflows/shellcheck.yml)
+
 
 ----
 
