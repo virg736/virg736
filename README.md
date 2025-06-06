@@ -105,19 +105,6 @@ Simulation d’une attaque par force brute avec **CUPP.py**.
 
 ---
 
-##  Me contacter
-
-📧 Email : [virginielechene@proton.me](mailto:virginielechene@proton.me)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://fr.linkedin.com/in/virginie-lechene-fr)
-[![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-ACTIVE-blueviolet?logo=github&logoColor=white)](https://github.com/virg736)
-
-
-🔗 Cliquez sur les badges pour découvrir mes profils professionnels.
-🔗 Click the badges to explore my professional profiles.
-
----
-
 ## ⚖️ Avertissement légal
 
 Tous les projets présentés ici à but éducatif uniquement.
