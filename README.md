@@ -8,7 +8,7 @@
 ---
 
 **Français** : Formée en cybersécurité offensive et défensive. Spécialisée en pentest, développeuse de scripts et créatrice de projets Github.
-**English** : Trained in offensive and defensive cybersecurity. Specialized in pentesting, script developer and Github project creation . 
+**English** : Trained in offensive and defensive cybersecurity. Specialized in pentesting, script development and Github project creation . 
 
 📁 [👉 Voir mon portfolio cybersécurité ←](https://virg736.github.io/)
 
