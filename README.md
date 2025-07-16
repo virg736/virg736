@@ -45,7 +45,7 @@ Projet éducatif de sensibilisation aux injections (SQL, XSS...) avec un script 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Sécurité](https://img.shields.io/badge/SQL%20Injection-protégée-brightgreen?style=for-the-badge)
 
-🔗 [Voir le projet](https://github.com/virg736/github-sensibilisation-injections)
+🔗 [Voir le projet](https://github.com/virg736/guithub-sensibilisation-injections)
 
 
 ---
