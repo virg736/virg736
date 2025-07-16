@@ -37,6 +37,19 @@ Navigateur sécurisé basé Firejail et un VPN, conçu pour les tests d'intrusio
 
 ---
 
+## 🛡️ github-sensibilisation-injections
+
+Projet éducatif de sensibilisation aux injections (SQL, XSS...) avec un script Python de protection.
+
+![ShellCheck](https://img.shields.io/badge/ShellCheck-passing-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
+![Sécurité](https://img.shields.io/badge/SQL%20Injection-protégée-brightgreen?style=for-the-badge)
+
+🔗 [Voir le projet](https://github.com/virg736/github-sensibilisation-injections)
+
+
+---
+
 ### 🌐 [enumeration-pentest](https://github.com/virg736/enumeration-pentest)
 Méthodologie et outils d’énumération réseau.
 
