@@ -12,6 +12,8 @@
 
 📁 [👉 Voir mon portfolio cybersécurité ←](https://virg736.github.io/)
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@virginiepentestlinuxpro)
+
 ✉️ Me contacter : `virginielechene@proton.me` *(copier-coller cette adresse pour m’écrire)*
 
 ---
