@@ -25,6 +25,24 @@
 
 ## 📁 Mes projets / My Projects
 
+### 🦜 PARROT-OS Firewall (nftables)
+
+Projet de sécurisation réseau basé sur **Parrot OS** avec `nftables`.
+- Mise en place d’un firewall personnel (niveau 6) pour protéger une machine locale.
+- Déploiement d’un firewall réseau (niveau 7) transformant la machine en routeur + pare-feu.
+- Script validé automatiquement (✅ Check passing GitHub).
+- Documentation claire + démonstrations.
+
+**Technos utilisées**
+![ParrotOS](https://img.shields.io/badge/ParrotOS-security-blue)
+![nftables](https://img.shields.io/badge/nftables-firewall-orange)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-virtualization-lightgrey)
+![Linux](https://img.shields.io/badge/Linux-advanced-green)
+
+👉 [Voir le projet](https://github.com/virg736/PARROT-OS)
+
+---
+
 ### safefox-vpn-firejail
 Navigateur sécurisé basé Firejail et un VPN, conçu pour les tests d'intrusion, l’analyse web et la cybersécurité.
 **Technos utilisées :**
