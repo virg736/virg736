@@ -4,7 +4,7 @@
 🔐 Pentester | Offensive & Defensive Cybersecurity | GitHub Pro Member
 [![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-ACTIVE-blueviolet?logo=github&logoColor=white)](https://github.com/virg736)
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
-
+![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 ---
 
 **Français** : Formée en cybersécurité offensive et défensive. Spécialisée en pentest, développeuse de scripts et créatrice de projets Github.
