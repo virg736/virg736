@@ -1,6 +1,6 @@
 <img src="https://github.com/virg736/virg736/blob/main/photo%20profil%20GitHub.PNG?raw=true" alt="Banner" style="width:100%;"/>
 
-# Hello, I'm Virginie Lechene
+# Hello, I'm Virginie 
 🔐 Pentester | Offensive & Defensive Cybersecurity | GitHub Pro Member
 [![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-ACTIVE-blueviolet?logo=github&logoColor=white)](https://github.com/virg736)
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
