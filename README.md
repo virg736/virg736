@@ -45,12 +45,8 @@ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, d�
 ---
 
 ##  Mes badges GitHub Actions
-- **ShellCheck** : statut du projet *safefox-vpn-firejail* →  
-  <a href="https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml">
-    <img src="https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg"
-         alt="ShellCheck — safefox-vpn-firejail" />
-  </a>
-
+- **ShellCheck** : statut des projets  
+ 
 ---
 
 ##  Stack & centres d’intérêt
@@ -79,7 +75,7 @@ Projet de sécurisation réseau basé sur **Parrot OS** avec **nftables**.
   <tr>
     <td>
 
-### 🖥️ Arch LightDM XFCE Pentest
+### Arch LightDM XFCE Pentest
 Configuration & personnalisation de l’authentification **LightDM** sous **XFCE**, orienté pentest.  
 Scripts d’installation, démos par captures d’écran.
 
