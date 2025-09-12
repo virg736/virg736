@@ -23,6 +23,28 @@
   </a>
 </p>
 
+
+<!-- ====== QUICK LINKS ====== -->
+<p align="center">
+
+  <!-- Portfolio -->
+  <a href="https://virg736.github.io">
+    <img src="https://img.shields.io/badge/🌐%20Mon%20portfolio%20cybersécurité-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@defensivepentest1linuxpro?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/▶️%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:virginielechene@proton.me">
+    <img src="https://img.shields.io/badge/✉️%20Me%20contacter-333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+
+</p>
+
+
 <!-- ====== QUICK LINKS ====== -->
 <p align="center">
   <a href="https://virg736.github.io">
