@@ -102,6 +102,15 @@ Scénarios reproductibles, schémas TCP/IP, étapes guidées.
   </tr>
 </table>
 
+
+### 🖥️ Arch LightDM XFCE Pentest  
+
+Configuration & personnalisation de l’authentification graphique **LightDM** sous XFCE, orienté pentest.  
+Scripts d’installation automatisés, démos par captures d’écran incluses.  
+
+**Techs** : ArchLinux · XFCE · LightDM · Pentest  
+
+🔗 [Voir le projet](https://github.com/virg736/arch-linghtdm-xfce-pentest)
 ---
 
 ## 📊 Statistiques de profil
