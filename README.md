@@ -58,7 +58,7 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
-##  Mes projets / My Projects
+##  Mes projets 
 
 <table>
   <tr>
