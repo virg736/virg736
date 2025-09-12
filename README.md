@@ -91,7 +91,7 @@ Scripts d’installation automatisés, démos par captures d’écran incluses.
 **Techs** : ArchLinux · XFCE · LightDM · Pentest    
 🔗 [Voir le projet](https://github.com/virg736/arch-linghtdm-xfce-pentest)
     
---
+---
 
 ###  MITM Attack Scenario – Hacker à la défense
 Lab pédagogique : attaque **Man-in-the-Middle (MiTM)** + défenses associées.  
