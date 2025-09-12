@@ -78,24 +78,13 @@ Projet de sécurisation réseau basé sur **Parrot OS** avec **nftables**.
   </tr>
   <tr>
     <td>
-
-### Arch LightDM XFCE Pentest
-Configuration & personnalisation de l’authentification **LightDM** sous **XFCE**, orienté pentest.  
-Scripts d’installation, démos par captures d’écran.
-
-**Techs** : ArchLinux · XFCE · LightDM · Pentest  
-🔗 <a href="https://github.com/virg736/arch-lightdm-xfce-pentest">Voir le projet</a>
-
-  </td>
-  </tr>
-  <tr>
-    <td>
+    
 
 ###  MITM Attack Scenario – Hacker à la défense
 Lab pédagogique : attaque **Man-in-the-Middle (MiTM)** + défenses associées.  
 Scénarios reproductibles, schémas TCP/IP, étapes guidées.
-
 **Techs** : Linux · Bash · TCP/IP · Pentest  
+✅ *Check passing (GitHub Actions)* 
 🔗 <a href="https://github.com/virg736/MITM-Attack-Scenario-Hacker-a-la-defense">Voir le projet</a>
 
   </td>
@@ -107,10 +96,12 @@ Scénarios reproductibles, schémas TCP/IP, étapes guidées.
 
 Configuration & personnalisation de l’authentification graphique **LightDM** sous XFCE, orienté pentest.  
 Scripts d’installation automatisés, démos par captures d’écran incluses.  
-
+✅ *Check passing (GitHub Actions)* 
 **Techs** : ArchLinux · XFCE · LightDM · Pentest  
 
 🔗 [Voir le projet](https://github.com/virg736/arch-linghtdm-xfce-pentest)
+
+
 ---
 
 ## 📊 Statistiques de profil
