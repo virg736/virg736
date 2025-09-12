@@ -34,7 +34,7 @@
 
   <!-- YouTube -->
   <a href="https://youtube.com/@defensivepentest1linuxpro?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/▶️%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@virginiepentestlinuxpro)
   </a>
 
   <!-- Email -->
