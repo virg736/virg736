@@ -47,6 +47,10 @@ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, d�
 ##  Mes badges GitHub Actions
 - **ShellCheck** : statut des projets  
  
+## 🛡️ Mes badges GitHub Actions  
+
+![Check Passing](https://img.shields.io/badge/Check-passing-brightgreen?style=for-the-badge&logo=github)  
+Tous mes scripts et projets passent les vérifications automatiques **Check passing** ✅
 ---
 
 ##  Stack & centres d’intérêt
