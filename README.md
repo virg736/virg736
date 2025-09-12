@@ -53,16 +53,6 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
-All my scripts and projects successfully pass automatic **Check passing** verification ✅  
-
-**Scripting languages mastered:** Shell • Bash • Python • PowerShell
- 
-##  Mes badges GitHub Actions  
-
-![Check Passing](https://img.shields.io/badge/Check-passing-brightgreen?style=for-the-badge&logo=github)  
-Tous mes scripts et projets passent les vérifications automatiques **Check passing** ✅
----
-
 ##  Stack & centres d’intérêt
 `ParrotOS` · `ArchLinux` · `Linux` · `Networking` · `nftables` · `Firewall` · `VirtualBox` · `Bash` · `Pentest`
 
