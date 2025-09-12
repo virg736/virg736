@@ -79,6 +79,7 @@ Projet de sécurisation réseau basé sur **Parrot OS** avec **nftables**.
   <tr>
     <td>
     
+---
 
 ###  MITM Attack Scenario – Hacker à la défense
 Lab pédagogique : attaque **Man-in-the-Middle (MiTM)** + défenses associées.  
@@ -91,8 +92,9 @@ Scénarios reproductibles, schémas TCP/IP, étapes guidées.
   </tr>
 </table>
 
+---
 
-### 🖥️ Arch LightDM XFCE Pentest  
+###  Arch LightDM XFCE Pentest  
 
 Configuration & personnalisation de l’authentification graphique **LightDM** sous XFCE, orienté pentest.  
 Scripts d’installation automatisés, démos par captures d’écran incluses.  
@@ -107,6 +109,7 @@ Scripts d’installation automatisés, démos par captures d’écran incluses.
 ## 📊 Statistiques de profil
 - Profil créé le **22 mai 2025** - merci pour votre visite !
 - ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
+  
 
 ---
 
