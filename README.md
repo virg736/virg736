@@ -38,11 +38,8 @@
 
 ---
 
-## 🇫🇷 À propos
+##  À propos
 Formée en cybersécurité offensive et défensive. Spécialisée en pentest, développement de scripts et création de projets GitHub.
-
-<details>
-<summary>🇬🇧 English (click to expand)</summary>
 
 Trained in offensive & defensive cybersecurity. Specialized in pentesting, script development and GitHub project creation.
 </details>
