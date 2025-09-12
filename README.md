@@ -6,7 +6,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
 ---
 
-**Français** : Formée en cybersécurité offensive et défensive. Spécialisée en pentest, développeuse de scripts et créatrice de projets Github.
+ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, développeuse de scripts et créatrice de projets Github.
 
 
 📁 [👉 Voir mon portfolio cybersécurité ←](https://virg736.github.io/)
