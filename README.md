@@ -43,6 +43,19 @@ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, d�
 </details>
 
 ---
+
+## 🛡️ Mes badges GitHub Actions  
+
+![Check Passing](https://img.shields.io/badge/Check-passing-brightgreen?style=for-the-badge&logo=github)  
+Tous mes scripts et projets passent les vérifications automatiques **Check passing** ✅  
+
+**Langages maîtrisés :** Shell • Bash • Python • PowerShell  
+
+---
+
+All my scripts and projects successfully pass automatic **Check passing** verification ✅  
+
+**Scripting languages mastered:** Shell • Bash • Python • PowerShell
  
 ##  Mes badges GitHub Actions  
 
