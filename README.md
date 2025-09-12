@@ -1,3 +1,139 @@
+
+<!-- ====== HEADER ====== -->
+<p align="center">
+  <img src="https://github.com/virg736/virg736/blob/main/photo%20profil%20GitHub.PNG?raw=true"
+       alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hello, I'm Virginie</h1>
+<p align="center">
+  <b>Pentester • Offensive & Defensive Cybersecurity • GitHub Pro Member</b>
+</p>
+
+<p align="center">
+  <!-- Badges (ligne compacte) -->
+  <a href="https://github.com/virg736">
+    <img src="https://img.shields.io/badge/GitHub%20Pro-ACTIVE-blueviolet?logo=github&logoColor=white" alt="GitHub Pro" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=virg736&color=blue" alt="Profile views" />
+  <!-- Statut ShellCheck de ton projet Parrot -->
+  <a href="https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml">
+    <img src="https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg"
+         alt="ShellCheck — safefox-vpn-firejail" />
+  </a>
+</p>
+
+<!-- ====== QUICK LINKS ====== -->
+<p align="center">
+  <a href="https://virg736.github.io">
+    <img src="https://img.shields.io/badge/🔗%20Mon%20portfolio%20cybersécurité-0A66C2?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://youtube.com/@defensivepentest1?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/▶️%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:virginielechene@proton.me">
+    <img src="https://img.shields.io/badge/📧%20Me%20contacter-333?style=for-the-badge" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🇫🇷 À propos
+Formée en cybersécurité offensive et défensive. Spécialisée en pentest, développement de scripts et création de projets GitHub.
+
+<details>
+<summary>🇬🇧 English (click to expand)</summary>
+
+Trained in offensive & defensive cybersecurity. Specialized in pentesting, script development and GitHub project creation.
+</details>
+
+---
+
+## 🏷️ Mes badges GitHub Actions
+- **ShellCheck** : statut du projet *safefox-vpn-firejail* →  
+  <a href="https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml">
+    <img src="https://github.com/virg736/safefox-vpn-firejail/actions/workflows/shellcheck.yml/badge.svg"
+         alt="ShellCheck — safefox-vpn-firejail" />
+  </a>
+
+---
+
+## 🧰 Stack & centres d’intérêt
+`ParrotOS` · `ArchLinux` · `Linux` · `Networking` · `nftables` · `Firewall` · `VirtualBox` · `Bash` · `Pentest`
+
+---
+
+## 🧪 Mes projets / My Projects
+
+<table>
+  <tr>
+    <td>
+
+### 🔥 PARROT-OS Firewall (nftables)
+Projet de sécurisation réseau basé sur **Parrot OS** avec **nftables**.
+- Firewall personnel (niveau 6) pour machine locale  
+- Firewall réseau (niveau 7) → routeur + pare-feu  
+- CI : ✅ *Check passing (GitHub Actions)*  
+- Docs + démos
+
+**Techs** : ParrotOS · security · nftables · firewall · VirtualBox · Linux · advanced  
+🔗 <a href="https://github.com/virg736/PARROT-OS">Voir le projet</a>
+
+  </td>
+  </tr>
+  <tr>
+    <td>
+
+### 🖥️ Arch LightDM XFCE Pentest
+Configuration & personnalisation de l’authentification **LightDM** sous **XFCE**, orienté pentest.  
+Scripts d’installation, démos par captures d’écran.
+
+**Techs** : ArchLinux · XFCE · LightDM · Pentest  
+🔗 <a href="https://github.com/virg736/arch-lightdm-xfce-pentest">Voir le projet</a>
+
+  </td>
+  </tr>
+  <tr>
+    <td>
+
+### 🕵️ MITM Attack Scenario – Hacker à la défense
+Lab pédagogique : attaque **Man-in-the-Middle (MiTM)** + défenses associées.  
+Scénarios reproductibles, schémas TCP/IP, étapes guidées.
+
+**Techs** : Linux · Bash · TCP/IP · Pentest  
+🔗 <a href="https://github.com/virg736/MITM-Attack-Scenario-Hacker-a-la-defense">Voir le projet</a>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Statistiques de profil
+- Profil créé le **22 mai 2025** — merci pour votre visite !
+
+---
+
+## 🤝 Collaborations
+Ouverte aux opportunités de collaboration en cybersécurité / open-source. Écrivez-moi pour toute proposition sérieuse.
+
+---
+
+## ⚖️ Avertissement légal
+Tous les projets ici sont à but **éducatif** uniquement. Toute utilisation non autorisée est interdite et sous la responsabilité de l’utilisateur. © Virginie Lechene
+
+### 📜 Licences
+- Code source : **MIT** (sauf mention contraire).
+- Visuels : **CC BY-ND 4.0**.
+- Contenus pédagogiques : **CC BY-NC 4.0** (vérifier chaque dépôt).
+
+
+
+
+
+
+
+
 <img src="https://github.com/virg736/virg736/blob/main/photo%20profil%20GitHub.PNG?raw=true" alt="Banner" style="width:100%;"/>
 
 # Hello, I'm Virginie 
