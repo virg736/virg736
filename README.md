@@ -40,7 +40,6 @@
 ##  À propos
 Formée en cybersécurité offensive et défensive. Spécialisée en pentest, développement de scripts et création de projets GitHub.
 
-Trained in offensive & defensive cybersecurity. Specialized in pentesting, script development and GitHub project creation.
 </details>
 
 ---
