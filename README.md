@@ -64,6 +64,7 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 
 ## 👀 Profile Views  
+- Profil créé le **22 mai 2025** - merci pour votre visite !  
 ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=green)
 
 
