@@ -119,13 +119,6 @@ Scénarios reproductibles, schémas TCP/IP, étapes guidées.
 
 ---
 
-## 📊 Statistiques de profil
-- Profil créé le **22 mai 2025** - merci pour votre visite !
-- ![Profile views](https://komarev.com/ghpvc/?username=virg736&color=blue)
-  
-
----
-
 ## 🤝 Collaborations
 Ouverte aux opportunités de collaboration en cybersécurité / open-source. Écrivez-moi pour toute proposition sérieuse.
 
