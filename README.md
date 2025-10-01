@@ -62,6 +62,10 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
+## 📊 Mes statistiques GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=virg736&show_icons=true&theme=dark&hide_title=false&count_private=true)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=virg736&show_icons=true&theme=dark)
 
 ---
