@@ -24,16 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://virg736.github.io/">
-    <img src="https://img.shields.io/badge/%F0%9F%93%8C%20Mon%20portfolio%20cybers%C3%A9curit%C3%A9-0A66C2?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.youtube.com/@virginiepentestlinuxpro">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:virginielechene@proton.me">
-    <img src="https://img.shields.io/badge/%E2%9C%89%20Me%20contacter-333?style=for-the-badge" alt="Email" />
-  </a>
-</p>
+ 
 
 ---
 
