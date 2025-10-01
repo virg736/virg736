@@ -130,13 +130,6 @@ Tous les projets ici sont à but **éducatif** uniquement. Toute utilisation non
 
 ---
 
-### 🌐 Me retrouver en ligne
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-circle&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/virginie-lechene-fr)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-circle&logo=youtube&logoColor=white)](https://www.youtube.com/@virginiepentestlinuxpro)
-
-
-
 
 
 
