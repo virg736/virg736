@@ -66,6 +66,10 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
+## 👀 Profile Views  
+![Profile views](https://komarev.com/ghpvc/?username=virg736&color=green)
+
+
 ##  Mes projets 
 
 <table>
