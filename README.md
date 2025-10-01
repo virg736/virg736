@@ -58,6 +58,9 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virg736&layout=compact&theme=dark)
+
+
 ##  Mes projets 
 
 <table>
