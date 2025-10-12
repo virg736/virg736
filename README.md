@@ -60,12 +60,33 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
-## 👀 Profile Views  
-- Profil créé le **22 mai 2025** - merci pour votre visite !  
-![Profile views](https://komarev.com/ghpvc/?username=virg736&color=green)
+---
+
+### 💻 Arch LightDM XFCE Pentest
+Projet de configuration et personnalisation de l’authentification graphique **LightDM** sous XFCE, orienté pentest.  
+- Personnalisation complète de LightDM.  
+- Scripts d’installation pour automatiser la configuration.  
+- Démonstrations avec captures d’écran incluses.  
+
+**Technos utilisées :** ArchLinux · XFCE · LightDM · Pentest  
+
+[🔗 Voir le projet](https://github.com/virg736/arch-linghtdm-xfce-pentest)
+
+---
+
+### ⚡ MITM Attack Scenario – Hacker à la Défense
+Scénario pédagogique pour démontrer une attaque de type **Man-in-the-Middle (MITM)** et les mécanismes de défense associés.  
+- Mise en place d’un environnement contrôlé.  
+- Scripts Bash pour automatiser les tests.  
+- Documentation claire + schémas TCP/IP.  
+
+**Technos utilisées :** Linux · Bash · TCP/IP · Pentest  
+
+[🔗 Voir le projet](https://github.com/virg736/MITM-Attack-Scenario-Hacker-a-la-defense)
 
 
-##  Mes projets 
+
+## 📊 Statistiques de profil / Profile Statistics
 
 <table>
   <tr>
