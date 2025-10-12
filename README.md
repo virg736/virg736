@@ -61,12 +61,6 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 ---
 
 
-## 📊 Statistiques de profil / Profile Statistics
-
-<table>
-  <tr>
-    <td>
-
 ### PARROT-OS Firewall (nftables)
 Projet de sécurisation réseau basé sur **Parrot OS** avec **nftables**.
 - Firewall personnel (niveau 6) pour machine locale  
