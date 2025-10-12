@@ -58,6 +58,12 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
+### 🧠 Langages les plus utilisés (mise à jour)
+
+![Langages récents](https://github-readme-stats.vercel.app/api/top-langs/?username=virg736&layout=donut&theme=github_dark&hide_border=true)
+
+
+
 
 ## 👀 Profile Views  
 - Profil créé le **22 mai 2025** - merci pour votre visite !  
