@@ -40,6 +40,23 @@ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, d�
 
 ---
 
+
+<div align="center">
+
+## 👀 Profile Views
+
+<img src="https://raw.githubusercontent.com/virg736/virg736/main/profile-views-badge.svg" width="200">
+
+---
+
+## 📈 Profile Views History
+
+<img src="https://raw.githubusercontent.com/virg736/virg736/main/profile-views-chart.png" width="600">
+
+</div>
+
+---
+
 ## 🛡️ Mes badges GitHub Actions  
 
 ![Check Passing](https://img.shields.io/badge/Check-passing-brightgreen?style=for-the-badge&logo=github)  
