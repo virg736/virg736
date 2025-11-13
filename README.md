@@ -38,22 +38,6 @@ Formée en cybersécurité offensive et défensive. Spécialisée en pentest, d�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-circle&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/virginie-lechene-fr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-circle&logo=youtube&logoColor=white)](https://www.youtube.com/@virginiepentestlinuxpro)
 
----
-
-
-<div align="center">
-
-## 👀 Profile Views
-
-<img src="https://raw.githubusercontent.com/virg736/virg736/main/profile-views-badge.svg" width="200">
-
----
-
-## 📈 Profile Views History
-
-<img src="https://raw.githubusercontent.com/virg736/virg736/main/profile-views-chart.png" width="600">
-
-</div>
 
 ---
 
