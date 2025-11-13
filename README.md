@@ -125,7 +125,7 @@ Tous les projets ici sont à but **éducatif** uniquement. Toute utilisation non
 
 ---
 
-
+<img src="https://raw.githubusercontent.com/virg736/virg736/main/profile-views-badge.svg" alt="Profile views">
 
 
 
