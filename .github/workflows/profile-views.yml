@@ -1,1 +1,32 @@
+name: Update Profile Views
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Update views and generate chart
+      run: |
+        pip install matplotlib
+        python update_views.py
+
+    - name: Commit changes
+      run: |
+        git config user.email "github-actions@github.com"
+        git config user.name "GitHub Actions"
+        git add .
+        git commit -m "Update profile views chart" || true
+        git push
