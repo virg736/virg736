@@ -70,9 +70,6 @@ https://github.com/virg736/Analyse-Exploitation-faille--XSS-Dalfox-BeEF-
 
 ---
 
-🔗 **Voir le projet**  
-👉 [Analyse & Exploitation d’une Faille XSS – Dalfox + BeEF](https://github.com/virg736/Analyse-Exploitation-faille--XSS-Dalfox-BeEF-)
-
 
 ### PARROT-OS Firewall (nftables)
 Projet de sécurisation réseau basé sur **Parrot OS** avec **nftables**.
