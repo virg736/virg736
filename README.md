@@ -60,7 +60,7 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 ---
 
 
-## 🔥 Analyse & Exploitation d’une Faille XSS — Dalfox + BeEF  
+## Analyse & Exploitation d’une Faille XSS - Dalfox + BeEF  
 Laboratoire offensif complet : analyse, exploitation, mitigation & version sécurisée.
 
 **Techs :** Parrot OS • Debian • Apache2 • BeEF • Dalfox • Pentest • OffSec  
