@@ -55,11 +55,6 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
-![Langages récents](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
-
----
-
-
 ## Analyse & Exploitation d’une Faille XSS - Dalfox + BeEF  
 Laboratoire offensif complet : analyse, exploitation, mitigation & version sécurisée.
 
