@@ -29,9 +29,8 @@
 ---
 
 ##  À propos
-Cybersécurité • Pentest Linux
-Projets d’ingénierie et expérimentations techniques
-
+Cybersécurité • Pentest Linux  
+Projets d’ingénierie et laboratoires d’expérimentation
 </details>
 
 ### 🌐 Me retrouver en ligne
