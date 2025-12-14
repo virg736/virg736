@@ -29,8 +29,7 @@
 ---
 
 ##  À propos
-Cybersécurité • Pentest Linux  
-Projets d’ingénierie et laboratoires d’expérimentation
+Pentester Linux offensive & défensive – Projets d’ingénierie (GitHub, laboratoires contrôlés) 
 </details>
 
 ### 🌐 Me retrouver en ligne
