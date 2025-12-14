@@ -29,7 +29,8 @@
 ---
 
 ##  À propos
-Formée en cybersécurité offensive et défensive. Spécialisée en pentest, développement de scripts et création de projets GitHub.
+Cybersécurité • Pentest Linux
+Projets d’ingénierie et expérimentations techniques
 
 </details>
 
