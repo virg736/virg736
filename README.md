@@ -29,7 +29,7 @@
 ---
 
 ##  À propos
-Pentester Linux offensive & défensive – Projets d’ingénierie (GitHub, laboratoires contrôlés) 
+Pentester Linux offensive & défensive – Projets d’ingénierie (laboratoires contrôlés) 
 </details>
 
 ### 🌐 Me retrouver en ligne
