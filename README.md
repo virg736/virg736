@@ -115,10 +115,11 @@ Ouverte aux opportunités de collaboration en cybersécurité / open-source. Éc
 
 ---
 
-## ⚖️ Avertissement légal    
-Les projets présentés sont réalisés dans des environnements contrôlés, à des fins de recherche, d’ingénierie et d’apprentissage en cybersécurité.  
-Toute utilisation en dehors de ce cadre relève de la responsabilité exclusive de l’utilisateur.  
-© Virginie Lechene
+
+## ⚖️ Avertissement légal
+Les projets présentés sont conçus, déployés et testés par mes soins dans des environnements virtualisés et contrôlés, à des fins d’ingénierie et d’apprentissage en cybersécurité.  
+Ils peuvent servir de source d’inspiration technique, dans le respect du cadre légal et des licences associées.  
+Toute utilisation en dehors de ce cadre relève de la responsabilité exclusive de l’utilisateur.
 
 ---
 
