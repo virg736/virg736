@@ -116,7 +116,7 @@ Ouverte aux opportunités de collaboration en cybersécurité / open-source. Éc
 ---
 
 ## ⚖️ Avertissement légal
-Tous les projets ici sont à but **éducatif** uniquement. Toute utilisation non autorisée est interdite et sous la responsabilité de l’utilisateur. © Virginie Lechene
+Tous les projets sont à but **éducatif** uniquement. Toute utilisation non autorisée est interdite et sous la responsabilité de l’utilisateur. © Virginie Lechene
 
 ### 📜 Licences
 - Code source : **MIT** (sauf mention contraire).
