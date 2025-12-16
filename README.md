@@ -29,7 +29,8 @@
 ---
 
 ##  À propos
-Pentester Linux offensive & défensive - Projets d’ingénierie (environnements contrôlés) 
+Pentester Linux offensive & défensive - Projets d’ingénierie (environnements contrôlés)
+Je conçois et déploie mes propres environnements virtualisés et outils de sécurité, avec une approche axée sur la compréhension et la maîtrise de chaque composant.
 </details>
 
 ### 🌐 Me retrouver en ligne
