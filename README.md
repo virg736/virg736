@@ -120,6 +120,8 @@ Les projets présentés sont réalisés dans des environnements contrôlés, à 
 Toute utilisation en dehors de ce cadre relève de la responsabilité exclusive de l’utilisateur.  
 © Virginie Lechene
 
+---
+
 ### 📜 Licences
 - Code source : **MIT** (sauf mention contraire).
 - Visuels : **CC BY-ND 4.0**.
