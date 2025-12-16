@@ -117,7 +117,7 @@ Ouverte aux opportunités de collaboration en cybersécurité / open-source. Éc
 
 
 ## ⚖️ Avertissement légal
-Les projets présentés sont conçus, déployés et testés par mes soins dans des environnements virtualisés et contrôlés, à des fins d’ingénierie et d’apprentissage en cybersécurité.  
+Les projets présentés sont conçus, déployés et testés de bout en bout dans des environnements virtualisés et contrôlés, à des fins d’ingénierie et d’apprentissage en cybersécurité.  
 Ils peuvent servir de source d’inspiration technique, dans le respect du cadre légal et des licences associées.  
 Toute utilisation en dehors de ce cadre relève de la responsabilité exclusive de l’utilisateur.
 
