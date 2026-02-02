@@ -135,7 +135,6 @@ Toute utilisation en dehors de ce cadre relève de la responsabilité exclusive 
 
 ---
 
-<img src="https://raw.githubusercontent.com/virg736/virg736/main/profile-views-badge.svg" alt="Profile views">
 
 
 
