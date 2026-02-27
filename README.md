@@ -125,13 +125,9 @@ Toute utilisation en dehors de ce cadre relève de la responsabilité exclusive 
 ---
 
 ### 📜 Licences
-- Code source : **MIT** (sauf mention contraire).
-- Visuels : **CC BY-ND 4.0**.
-- Contenus pédagogiques : **CC BY-NC 4.0** (vérifier chaque dépôt).
 
 -  Le **code source** de mes dépôts est sous licence [MIT](https://opensource.org/licenses/MIT).
 -  Les **contenus pédagogiques, guides et documents** sont sous licence [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
-- ⚠️ Chaque type de contenu est soumis à une licence différente. Merci de consulter chaque dépôt pour plus de détails.
 
 ---
 
