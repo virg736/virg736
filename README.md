@@ -1,9 +1,6 @@
 
 <!-- ====== HEADER ====== -->
-<p align="center">
-  <img src="https://github.com/virg736/virg736/blob/main/photo%20profil%20GitHub.PNG?raw=true"
-       alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hello, I'm Virginie</h1>
 <p align="center">
