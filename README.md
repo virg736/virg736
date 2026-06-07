@@ -1,3 +1,6 @@
+<p align="center">
+<img src="./Github%20Virginie.jpg" alt="Virginie GitHub Banner" width="100%" />
+</p>
 
 <!-- ====== HEADER ====== -->
 
