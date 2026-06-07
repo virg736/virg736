@@ -1,7 +1,7 @@
 
 <!-- ====== HEADER ====== -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/virg36/virg36/main/Github%20Virginie.jpg" alt="Virginie GitHub Banner" width="100%">
+<img src="https://raw.githubusercontent.com/virg36/virg36/main/Github%20Virginie.jpg" alt="Virginie GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello, I'm Virginie</h1>
