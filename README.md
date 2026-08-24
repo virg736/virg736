@@ -65,15 +65,16 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 ---
 
 ## 🤝 Collaborations
-Ouverte aux opportunités de collaboration en cybersécurité / open-source. Écrivez-moi pour toute proposition sérieuse.
+
+Ouverte aux collaborations sérieuses en cybersécurité, Linux, sécurité offensive/défensive et projets open source.
 
 ---
 
-
 ## ⚖️ Avertissement légal
-Les projets présentés sont conçus, déployés et testés de bout en bout dans des environnements virtualisés et contrôlés, à des fins d’ingénierie et d’apprentissage en cybersécurité.  
-Ils peuvent servir de source d’inspiration technique, dans le respect du cadre légal et des licences associées.  
-Toute utilisation en dehors de ce cadre relève de la responsabilité exclusive de l’utilisateur.
+
+Les projets présentés sont conçus, déployés et testés dans des environnements virtualisés et contrôlés, à des fins d’ingénierie, de recherche et d’apprentissage en cybersécurité.
+
+Les techniques et outils documentés sont destinés à un usage légal, éthique et autorisé.
 
 ---
 
