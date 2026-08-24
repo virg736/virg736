@@ -49,7 +49,8 @@ Je conçois et déploie mes propres environnements virtualisés et outils de sé
 
 ![Check Passing](https://img.shields.io/badge/Check-passing-brightgreen?style=for-the-badge&logo=github)  
 Mes scripts Shell passent les vérifications automatisées avec ShellCheck ✅   
-**Langages maîtrisés :** Shell • Bash • Python • PowerShell  
+
+**Langages maîtrisés :** Shell • Bash • Python • PowerShell    
 
 ---
 
