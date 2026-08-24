@@ -56,11 +56,13 @@ Mes scripts Shell passent les vérifications automatisées avec ShellCheck ✅
 
 ## 🧰 Stack & domaines
 
-`Linux` · `Parrot OS` · `Arch Linux` · `Python` · `Bash` · `PowerShell` · `Docker` · `VirtualBox`
 
-`Networking` · `nftables` · `Firewall` · `Wireshark` · `eBPF` · `Pentest` · `Web Security`
+Linux · Debian · Kali Linux · Parrot OS · Arch Linux · Python · Bash · PowerShell · Docker · VirtualBox   
 
-`Defense & Monitoring` · `Cryptography / PQC` · `AI Security`
+Networking · nftables · Firewall · Wireshark · eBPF · Pentest · Web Securityv   
+
+Defense & Monitoring · Cryptography / PQC · AI Security   
+
 
 ---
 
