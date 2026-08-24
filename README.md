@@ -48,8 +48,7 @@ Je conçois et déploie mes propres environnements virtualisés et outils de sé
 ##  Mes badges GitHub Actions  
 
 ![Check Passing](https://img.shields.io/badge/Check-passing-brightgreen?style=for-the-badge&logo=github)  
-Tous mes scripts et projets passent les vérifications automatiques **Check passing** ✅  
-
+Mes scripts Shell passent les vérifications automatisées avec ShellCheck ✅   
 **Langages maîtrisés :** Shell • Bash • Python • PowerShell  
 
 ---
