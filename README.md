@@ -33,7 +33,7 @@
 Linux pro offensive & défensive - Projets d'ingénierie *(environnements contrôlés)*.  
 Je conçois et déploie mes propres environnements virtualisés et outils de sécurité, avec une approche axée sur la compréhension et la maîtrise de chaque composant.
 
-### 🧭 Parcours cybersécurité
+### Parcours cybersécurité
 
 **Fondamentaux** → **Pentest Web** → **Réseaux** → **Systèmes/Linux** → **Défense & Monitoring** → **Cryptographie/PQC** → **IA & Sécurité**
 
@@ -45,7 +45,7 @@ Je conçois et déploie mes propres environnements virtualisés et outils de sé
 
 ---
 
-## 🛡️ Mes badges GitHub Actions  
+##  Mes badges GitHub Actions  
 
 ![Check Passing](https://img.shields.io/badge/Check-passing-brightgreen?style=for-the-badge&logo=github)  
 Tous mes scripts et projets passent les vérifications automatiques **Check passing** ✅  
@@ -64,7 +64,7 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
-## 🤝 Collaborations
+##  Collaborations
 
 Ouverte aux collaborations sérieuses en cybersécurité, Linux, sécurité offensive/défensive et projets open source.
 
