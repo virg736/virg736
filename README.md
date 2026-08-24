@@ -54,8 +54,13 @@ Tous mes scripts et projets passent les vérifications automatiques **Check pass
 
 ---
 
-##  Stack & centres d’intérêt
-`ParrotOS` · `ArchLinux` · `Linux` · `Networking` · `nftables` · `Firewall` · `VirtualBox` · `Bash` · `Pentest`
+## 🧰 Stack & domaines
+
+`Linux` · `Parrot OS` · `Arch Linux` · `Python` · `Bash` · `PowerShell` · `Docker` · `VirtualBox`
+
+`Networking` · `nftables` · `Firewall` · `Wireshark` · `eBPF` · `Pentest` · `Web Security`
+
+`Defense & Monitoring` · `Cryptography / PQC` · `AI Security`
 
 ---
 
