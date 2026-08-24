@@ -31,6 +31,7 @@
 ## À propos
 
 Linux pro offensive & défensive - Projets d'ingénierie *(environnements contrôlés)*.  
+
 Je conçois et déploie mes propres environnements virtualisés et outils de sécurité, avec une approche axée sur la compréhension et la maîtrise de chaque composant.
 
 ### Parcours cybersécurité
