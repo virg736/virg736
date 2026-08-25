@@ -7,8 +7,7 @@
 
 <h1 align="center">Hello, I'm Virginie</h1>
 <p align="center">
-  <b>Linux pro offensive & défensive   
-    Projets d'ingénierie   
+  <b>Linux pro offensive & défensive.Projets d'ingénierie   
     (environnements contrôlés).</b>
 </p>
 
